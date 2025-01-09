@@ -1,0 +1,17 @@
+{
+    "default": {
+      "formatOptions": {
+        "snippetInterface": "async-await"
+        
+      },
+      "paths": ["features/feature/checkBoxes.feature"],
+      "dryRun": false,
+      "autocomplete": {
+        "steps": ["hooks/*.js"],
+        "syncsteps": true,
+        "playwrightEnabled": true
+        
+      }
+     
+    }
+  }
