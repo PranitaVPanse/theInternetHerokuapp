@@ -1,6 +1,6 @@
+This Test Automation Framework is created to automate "The internet herokuapp" website. Link: https://the-internet.herokuapp.com/
 
-
-Commands:
-npx cucumber-js - To run cucumber files. It will run all the files with .feature extension.
-npm install --save-dev @playwright/test - To get suggesstions in VSCode for Playwright.
-
+Following setup is used in the test automation framework:
+1) Playwright
+2) Javascript
+3) Cucumber with Gherkins
